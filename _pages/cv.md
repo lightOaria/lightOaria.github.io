@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electronic Science and Technology, Beijing University of Technology, 2023-Present
+* B.S. in Microelectronics Science and Engineering, Beijing University of Technology, 2019-2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2025 - Present: VLA Algorithm Intern
+  * Li Auto
+  * Duties included: Researching VLA models, pre-training with eye-tracking data, and visual token compression.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2025 - July 2025: Robotic Arm Deployment
+  * Westlake University
+  * Duties included: Assisting with data collection system and model deployment interface for Franka robotic arm.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C++
+* PyTorch
+* AI Tools
+* English CET-6
 
 Publications
 ======
@@ -58,7 +49,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
